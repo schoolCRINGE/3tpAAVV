@@ -1,4 +1,4 @@
-Vitalii Pryimak:presence every lesson
-Vitalii Shtenyk: presence every lesson
-Artem Harashchenko: presence every lesson
-Aleksandro Akulov: presence not every lesson
+Vitalii Pryimak: presence every lesson (Absent 19.09, 10.10, 17.10)
+Vitalii Shtenyk: presence every lesson (Absent 19.09, 10.10, 17.10)
+Artem Harashchenko: presence every lesson (Absent 10.10, 17.10, 24.10)
+Aleksandro Akulov: presence every lesson (Absent 3.10, 10.10, 17.10, 24.10)
